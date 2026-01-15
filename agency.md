@@ -1,24 +1,25 @@
-# Space Agency Character Sheet
+# Nordic country sheet Character Sheet
 
 ## General Information
 - **Agency Name:**
 - **Alliance / Bloc:**
 - **Motto:**
 - **Headquarters:**
-- **Current Integrity:**
+- **Current Integrity: 8**
 - **Notes:**
+- **Exp: /**
 
 ---
 
-## Attributes
+## Nordic Countries Attributes
 
 ### Power
 | Skill     | Value | Notes |
 |----------|-------|-------|
-| Industry |       |       |
-| Science  |       |       |
-| Military |       |       |
-| Agriculture        |       |       |
+| Industry |  3     |       |
+| Science  |  3     |       |
+| Military |  1     |       |
+| Agriculture        |   2    |       |
 |         |       |       |
 
 ---
@@ -26,10 +27,10 @@
 ### Finesse
 | Skill      | Value | Notes |
 |-----------|-------|-------|
-| Espionage |       |       |
-| Diplomacy |       |       |
-| Logistics |       |       |
-| Trade         |       |       |
+| Espionage |   1    |       |
+| Diplomacy |   1    |       |
+| Logistics |   3    |       |
+| Trade         |   3    |       |
 |          |       |       |
 
 ---
@@ -37,11 +38,11 @@
 ### Resistance
 | Skill   | Value | Notes |
 |--------|-------|-------|
-| Unity  |       |       |
-| Security |     |       |
-| Ethics |       |       |
-| Counter Espionage       |       |       |
-|        |       |       |
+| Unity  |   6    |       |
+| Survalliance |   3  |       |
+| Ethics |   4    |       |
+| Counter Espionage       |   3    |       |
+| Security       |   1    |       |
 
 ---
 
@@ -61,7 +62,7 @@
 
 | Merit Name | Value | Description / Mechanical Effect |
 |-----------|-------|----------------------------------|
-|           |       |                                  |
+| Kingdoms          |   +1    |  To Unity rolls                                |
 |           |       |                                  |
 |           |       |                                  |
 
@@ -72,14 +73,14 @@
 
 | Flaw Name | Value | Description / Mechanical Effect |
 |-----------|-------|----------------------------------|
-|           |       |                                  |
-|           |       |                                  |
+| Failing eco systems          |  -4     |  To all agriculteral rolls                                |
+| Seceret agency          |  -3     |  To all Unity rolls                                |
 |           |       |                                  |
 
 ---
 
 ## Assets & Resources
-*Ships, facilities, AI cores, political capital, unique technologies.*
+*Bases, building, facilities, AI cores, sub-agencies, unique technologies.*
 
 | Asset | Type | Status | Notes |
 |-------|------|--------|-------|
@@ -99,7 +100,7 @@
 ---
 
 ## Ongoing Conditions
-*Sanctions, internal unrest, ethical decline, secret projects, treaties.*
+*Sanctions, internal unrest, ethical decline, treaties.*
 
 | Condition | Source | Effect | Duration |
 |-----------|--------|--------|----------|
@@ -108,6 +109,15 @@
 
 ---
 
+## Player projects
+*Sanctions, internal unrest, ethical decline, treaties.*
+
+| Project Name | Player | Duration Requirments | Completion Score | Notes |
+|-----------|--------|--------|----------|----|
+|           |        |        |          |  |
+|           |        |        |          |  |
+
+---
 ## Historical Decisions
 *Major campaign-altering choices.*
 
