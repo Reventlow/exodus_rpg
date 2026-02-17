@@ -110,7 +110,7 @@
 ---
 
 ## Player projects
-*Sanctions, internal unrest, ethical decline, treaties.*
+*Character projects*
 
 | Project Name | Player | Duration Requirments | Completion Score | Notes |
 |-----------|--------|--------|----------|----|
